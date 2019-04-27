@@ -1,1 +1,1 @@
-# AUST-Calendar-Planner-CSE2100
+# AUST-Calendar-Planner-CSE2200
